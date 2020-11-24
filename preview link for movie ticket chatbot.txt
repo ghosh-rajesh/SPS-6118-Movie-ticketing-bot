@@ -1,0 +1,3 @@
+This is preview link: (for movie ticket chatbot)
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=2ea10456-c3d5-4955-b655-0f5545642018&serviceInstanceID=cca51fcc-1097-40cc-a5f0-325695dfeafb
